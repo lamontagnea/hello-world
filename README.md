@@ -1,2 +1,6 @@
 # hello-world
-test repository
+Hi Everyone! 
+
+This is my first repo that I'm creating witht the github turorial.
+
+Cheers!
